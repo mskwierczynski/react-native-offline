@@ -50,7 +50,6 @@
     "@types/node": "^12.7.5",
     "@types/react": "^16.9.2",
     "@types/react-native": "^0.60.21",
-    "@types/react-redux": "^7.1.2",
     "@types/react-test-renderer": "^16.9.0",
     "@types/redux-mock-store": "^1.0.1",
     "@typescript-eslint/eslint-plugin": "^2.4.0",
@@ -81,7 +80,7 @@
     "react-native": "^0.62.2",
     "react-native-testing-library": "^1.5.0",
     "react-native-typescript-transformer": "^1.2.13",
-    "react-redux": "^7.0.0",
+    "react-redux": "^8.0.4",
     "react-test-renderer": "^16.6.3",
     "redux": "^4.0.1",
     "redux-mock-store": "^1.5.3",
@@ -98,14 +97,14 @@
   },
   "dependencies": {
     "lodash": "^4.17.11",
-    "react-redux": "^7.0.0",
+    "react-redux": "^8.0.4",
     "redux": "^4.0.1",
     "redux-saga": "^1.0.2"
   },
   "peerDependencies": {
     "@react-native-community/netinfo": ">= 6",
     "react-native": ">=0.60",
-    "react-redux": ">=7.x",
+    "react-redux": ">=8.x",
     "redux": ">=3",
     "redux-saga": ">=1.x"
   }
